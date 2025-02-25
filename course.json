@@ -1,0 +1,20 @@
+{
+    "courseId": 301,
+    "courseName": "Object-Oriented Programming",
+    "credits": 3,
+    "instructor": {
+      "teacherId": 201,
+      "teacherName": "Tasnia Farzana"
+    },
+    "enrolledStudents": [
+      {
+        "id": 101,
+        "name": "Nuzhat Rahman"
+      },
+      {
+        "id": 102,
+        "name": "Ayesha Karim"
+      }
+    ]
+  }
+  

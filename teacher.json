@@ -1,0 +1,17 @@
+{
+    "teacherId": 201,
+    "teacherName": "Tasnia Farzana",
+    "department": "Computer Science",
+    "email": "tasnia.farzana@gmail.com",
+    "coursesTaught": [
+      {
+        "courseId": 301,
+        "courseName": "Object-Oriented Programming"
+      },
+      {
+        "courseId": 303,
+        "courseName": "Software Engineering"
+      }
+    ]
+  }
+  
