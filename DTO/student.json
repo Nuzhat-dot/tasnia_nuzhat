@@ -1,0 +1,17 @@
+{
+    "id": 101,
+    "name": "Nuzhat Rahman",
+    "age": 21,
+    "email": "nuzhat.rahman@example.com",
+    "courses": [
+      {
+        "courseId": 301,
+        "courseName": "Object-Oriented Programming"
+      },
+      {
+        "courseId": 302,
+        "courseName": "Data Structures"
+      }
+    ]
+  }
+  
